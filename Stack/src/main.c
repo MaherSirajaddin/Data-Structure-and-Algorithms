@@ -26,9 +26,6 @@ int main(){
 	pop();
 */
 
-	uint8_t test[]= "{({{2+10}}*11)}";//{({2+10}}*11}
-	chk_balance(test);
-
 	print_stack();
 }
 
